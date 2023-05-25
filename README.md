@@ -21,33 +21,40 @@ Je m'appelle Théo BOUTROUX et je suis actuellement en première année à l'EPS
 
 Les IDE que j'utilise :  
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="Logo VS Code" style="width: 20px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original.svg" alt="Logo PHPStorm" style="width: 20px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="Logo VS Code" style="width: 40px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original.svg" alt="Logo PHPStorm" style="width: 40px">
 
 Technologies Web :
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="Logo HTML 5" style="width: 20px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="Logo CSS" style="width: 20px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Logo Sass" style="width: 20px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Logo JavaScript" style="width: 20px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Logo Bootstrap" style="width: 20px">
+<div style="width: 50%; display: flex; justify-content: start; align-items: center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="Logo HTML 5" style="width: 40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="Logo CSS" style="width: 40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Logo Sass" style="width: 40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Logo JavaScript" style="width: 40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Logo Bootstrap" style="width: 40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Logo Tailwindcss" style="width: 40px">
+</div>
 
 Autres langages :  
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Logo Python" style="width: 20px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="Logo PHP" style="width: 20px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="Logo SQL" style="width: 20px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="Logo C++" style="width: 20px">
+<div style="width: 50%; display: flex; justify-content: start; align-items: center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Logo Python" style="width: 40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="Logo PHP" style="width: 40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="Logo SQL" style="width: 40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="Logo C++" style="width: 40px">
+</div>
 
 Autres Outils :
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Logo Linux" style="width: 20px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Logo Git" style="width: 20px">
+<div style="width: 50%; display: flex; justify-content: start; align-items: center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Logo Linux" style="width: 40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Logo Git" style="width: 40px">
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tboutroux&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Retrouvez moi sur LinkedIn
 
 <a href="https://www.linkedin.com/in/théo-boutroux" style="text-decoration: none">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Logo LinkedIn" style="width: 20px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Logo LinkedIn" style="width: 40px">
 </a>
