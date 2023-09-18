@@ -2,7 +2,7 @@
 
 ## Qui suis-je ?
 
-Je m'appelle Théo BOUTROUX et je suis actuellement en première année à l'EPSI - Nantes (44) incluant un BTS SIO (Services Informatiques aux Organisations) option SLAM.
+Je m'appelle Théo BOUTROUX et je suis actuellement en seconde année à l'EPSI - Nantes (44) incluant un BTS SIO (Services Informatiques aux Organisations) option SLAM.
 <br>
 
 **Vous retrouverez sur mon Github l'ensemble des projets que j'ai pu réaliser que ce soit personnel ou scolaire.**
