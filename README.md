@@ -33,6 +33,7 @@ Technologies Web :
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="Logo CSS" style="width: 40px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Logo Sass" style="width: 40px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Logo JavaScript" style="width: 40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Logo JavaScript" style="width: 40px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Logo NextJS" style="width: 40px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="Logo React" style="width: 40px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Logo Bootstrap" style="width: 40px">
