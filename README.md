@@ -13,10 +13,6 @@ Je m'appelle Théo BOUTROUX et je suis actuellement en seconde année à l'EPSI 
 * [Ici](https://github.com/tboutroux/projetBlackJack) Un jeu de BlackJack développé en C++.
 * Vous retrouverez également des projets en PHP développés dans le cadre scolaire tels que : [Une application de gestion de matériel](https://github.com/tboutroux/projetSLAMBICE).
 
-## Vous voulez me connaître davantage ?
-
-* Consultez mon portfolio : [theoboutroux.works](https://theoboutroux.works)
-
 ### Quels sont mes outils de travail ?
 
 Les IDE que j'utilise :  
