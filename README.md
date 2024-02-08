@@ -41,6 +41,7 @@ Autres langages :
 <div style="width: 50%; display: flex; justify-content: start; align-items: center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Logo Python" style="width: 40px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="Logo PHP" style="width: 40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" alt="Logo Symfony" style="width: 40px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="Logo SQL" style="width: 40px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="Logo C++" style="width: 40px">
 </div>
