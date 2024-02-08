@@ -55,6 +55,8 @@ Autres Outils :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tboutroux&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tboutroux)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Retrouvez moi sur LinkedIn
 
 <a href="https://www.linkedin.com/in/théo-boutroux" style="text-decoration: none">
