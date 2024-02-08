@@ -55,6 +55,8 @@ Autres Outils :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tboutroux&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
+![tboutroux's GitHub stats](https://github-readme-stats.vercel.app/api?username=tboutroux&show_icons=true&theme=transparent)
+
 ## Retrouvez moi sur LinkedIn
 
 <a href="https://www.linkedin.com/in/théo-boutroux" style="text-decoration: none">
