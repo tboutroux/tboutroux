@@ -2,16 +2,16 @@
 
 ## Qui suis-je ?
 
-Je m'appelle Théo BOUTROUX et je suis actuellement en seconde année à l'EPSI - Nantes (44) incluant un BTS SIO (Services Informatiques aux Organisations) option SLAM.
+Je m'appelle Théo BOUTROUX et je suis actuellement en seconde année à l'EPSI - Nantes (44).
 <br>
 
 **Vous retrouverez sur mon Github l'ensemble des projets que j'ai pu réaliser que ce soit personnel ou scolaire.**
 
 #### En voici quelques exemples :
 
-* Vous trouverez [Ici](https://github.com/tboutroux/AppliCinema) une application Web permettant d'accéder aux renseignements de films et séries qui utilise l'API de omdb.
-* [Ici](https://github.com/tboutroux/projetBlackJack) Un jeu de BlackJack développé en C++.
-* Vous retrouverez également des projets en PHP développés dans le cadre scolaire tels que : [Une application de gestion de matériel](https://github.com/tboutroux/projetSLAMBICE).
+* Vous trouverez [Ici](https://github.com/tboutroux/AppliCinema) une application Web permettant d'accéder aux renseignements de films et séries qui utilise l'API de omdb (HTML/CSS/JS).
+* ([Ici](https://github.com/tboutroux/PortfolioNext)) Mon Portfolio développé avec Next.
+* Vous retrouverez également des projets en PHP développés dans le cadre scolaire tels que : [Une application de gestion de matériel](https://github.com/tboutroux/projetSLAMBICE) (PHP), ou encore [un herbier](https://github.com/tboutroux/prj-symfony-herbiers) (Symfony).
 
 ### Quels sont mes outils de travail ?
 
@@ -55,9 +55,12 @@ Autres Outils :
 </div>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tboutroux&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
-[![tboutroux's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=tboutroux&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tboutroux&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tboutroux&layout=donut&langs_count=6&theme=dark#gh-dark-mode-only" />
+</a>
 
 ## Retrouvez moi sur LinkedIn
 
