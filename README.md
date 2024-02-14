@@ -62,6 +62,8 @@ Autres Outils :
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tboutroux&layout=donut&langs_count=6&theme=dark#gh-dark-mode-only" />
 </a>
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tboutroux)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Retrouvez moi sur LinkedIn
 
 <a href="https://www.linkedin.com/in/théo-boutroux" style="text-decoration: none">
