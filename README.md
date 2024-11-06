@@ -1,9 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tboutroux&label=Profile%20views&color=0e75b6&style=flat" alt="tboutroux" /> </p>
 
-# Bienvenue
-
-## Qui suis-je ?
-
 <h1 align="center">Bonjour 👋, Je m'appelle Théo Boutroux</h1>
 <h3 align="center">Développeur Full-Stack français</h3>
 
@@ -54,13 +50,16 @@ Autres Outils :
 </div>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tboutroux&show_icons=true&locale=en&layout=compact" alt="tboutroux" /></p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tboutroux&show_icons=true$theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tboutroux&show_icons=true&locale=en&layout=compact&langs_count=8&card_width=320" />
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tboutroux&show_icons=true&locale=en" alt="tboutroux" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tboutroux&" alt="tboutroux" /></p>
-
-<p align="center">[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tboutroux)](https://github.com/anuraghazra/github-readme-stats)</p>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=tboutroux" />
+</a>
 
 ## Retrouvez moi sur LinkedIn
 
