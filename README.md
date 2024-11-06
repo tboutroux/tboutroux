@@ -59,7 +59,7 @@ Autres Outils :
 <br>
 <br>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=tboutroux" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=tboutroux" />
 </a>
 
 ## Retrouvez moi sur LinkedIn
