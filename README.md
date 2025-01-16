@@ -1,5 +1,8 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tboutroux&label=Profile%20views&color=0e75b6&style=flat" alt="tboutroux" /> </p>
-
+<p align="left"> 
+    <a href="https://wakatime.com/@018d87f9-d14a-41df-9a8a-08f8cff01174">
+        <img src="https://wakatime.com/badge/user/018d87f9-d14a-41df-9a8a-08f8cff01174.svg" alt="Total time coded since Feb 8 2024" />
+    </a>
+</p>
 <h1 align="center">Bonjour 👋, Je m'appelle Théo Boutroux</h1>
 <h3 align="center">Développeur Full-Stack français</h3>
 
