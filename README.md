@@ -28,9 +28,6 @@ Les langages que j'utilise :
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Logo TypeScript" style="width: 40px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="Logo PHP" style="width: 40px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="Logo SQL" style="width: 40px">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="Logo HTML 5" style="width: 40px">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="Logo CSS" style="width: 40px">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Logo Sass" style="width: 40px">
 </div>
 
 Les Frameworks :  
@@ -40,8 +37,6 @@ Les Frameworks :
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Logo NextJS" style="width: 40px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="Logo React" style="width: 40px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="Logo Angular" style="width: 40px">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Logo Bootstrap" style="width: 40px">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Logo Tailwindcss" style="width: 40px">
 </div>
 
 Autres Outils :
